@@ -15,7 +15,7 @@ $ npm install -g vue-cli
 
 # 初始化项目
 # 可以自己fork一份，使用自己的用户名代替和个性化开发。
-$ vue init helloLaoYang/webpack your-project
+$ vue init kfw001/webpack your-project
 
 # 安装依赖
 $ npm install
